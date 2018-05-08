@@ -1,0 +1,7 @@
+package eu.erasmus.intelligentSystems.search.TunableBot;
+
+import robocode.AdvancedRobot;
+
+public class DeterministicRamFire extends AdvancedRobot {
+
+}

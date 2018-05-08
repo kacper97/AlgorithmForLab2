@@ -1,0 +1,9 @@
+1522841763224	Delete element
+1522844639385	Delete element
+1522844670767	Delete element
+1522915087397	Rename local variable 'NumObstacles'
+1522915106034	Rename local variable 'NdxObstacle'
+1522915120166	Rename local variable 'InitialObstacleRow'
+1522915130272	Rename local variable 'InitialObstacleCol'
+1523026271135	Rename field '_currentCell'
+1523026397422	Rename field '_startingCell'

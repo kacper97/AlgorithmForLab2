@@ -1,0 +1,23 @@
+INDEX VERSION 1.130+/Users/denisdrobny/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+1271342938.index
+576073405.index
+3157663476.index
+616739193.index
+3358580009.index
+527849843.index
+1044104405.index
+995153890.index
+1347349123.index
+2763200912.index
+3227702110.index
+2465022724.index
+2117113611.index
+3747769726.index
+4017258897.index
+1931402068.index
+2932191785.index
+2062974361.index
+204893112.index
+624708564.index
+2979435446.index
+1652985763.index
